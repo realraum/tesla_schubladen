@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg226"
+   sodipodi:docname="teslafach_crimpzangen.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs220" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="444.40678"
+     inkscape:cy="858.6438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1090"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata223">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06666672"
+       d="M -343.26562 -110.86328 L -343.26562 -68.724609 L -247.91016 -68.724609 L -247.91016 -58.140625 L -343.26562 -58.140625 L -343.26562 203.27734 L -247.91016 203.27734 L -247.91016 213.85938 L -343.26562 213.85938 L -343.26562 247.125 L 715.00195 247.125 L 715.00195 -110.86328 L 566.82617 -110.86328 L 566.82617 -101.06836 L 510.88867 -101.06836 L 510.88867 -110.86328 L -343.26562 -110.86328 z "
+       transform="scale(0.26458333)"
+       id="path5709" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222224"
+       d="M 39.177454,67.276837 H -90.822361 v 49.717893 h 19.17248 V 91.502747 h 2.79983 v 25.491983 h 19.413796 V 91.502747 h 2.79983 v 25.491983 h 19.4138 V 91.502747 h 2.80035 V 116.99473 H -5.0089916 V 91.502747 h 2.8003499 V 116.99473 H 17.205153 V 91.502747 h 2.799828 v 25.491983 h 19.172473 z"
+       id="path5685-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.28222224"
+       d="m 39.177945,119.28632 h -19.08927 v 12.44782 h -2.90008 V 119.28632 H -2.1414945 v 12.44782 h -2.90008 V 119.28632 H -24.372175 v 12.44782 h -2.90008 v -12.44782 h -19.330066 v 12.44782 h -2.90008 v -12.44782 h -19.33061 v 12.44782 h -2.90008 v -12.44782 h -19.08927 v 39.71798 h 19.08927 v -12.44833 h 2.90008 v 12.44833 h 19.33061 v -12.44833 h 2.90008 v 12.44833 h 19.330066 v -12.44833 h 2.90008 v 12.44833 h 19.3306005 v -12.44833 h 2.90008 V 159.0043 H 17.188595 v -12.44833 h 2.90008 v 12.44833 h 19.08927 z"
+       id="path598"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path673"
+       d="M 171.99834,67.276837 H 41.998479 v 49.717893 h 19.17248 V 91.502747 H 63.97079 V 116.99473 H 83.384585 V 91.502747 h 2.79983 V 116.99473 H 105.59822 V 91.502747 h 2.80035 v 25.491983 h 19.4133 V 91.502747 h 2.80035 v 25.491983 h 19.4138 V 91.502747 h 2.79983 v 25.491983 h 19.17249 z"
+       style="fill:none;stroke:#000000;stroke-width:0.28222224" />
+  </g>
+</svg>
